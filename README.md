@@ -13,7 +13,9 @@ An intelligent PowerPoint presentation generator that creates educational slides
 - 📝 Urdu slides: Bullet points are not numbered (for natural Urdu style)
 - 🧹 Improved title cleaning and formatting for all languages
 - 📚 Grade-appropriate content generation
-
+- 
+## Streamlit Deployment Url 
+Streamlit : https://edudecks-fm7iv7xbncwtpq6scappcvv.streamlit.app/
 ## Setup Instructions
 
 ### Prerequisites
